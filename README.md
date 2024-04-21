@@ -1,5 +1,5 @@
 # Bank-Customer-Churn-Prediction
-Este proyecto se enfoxa en la predicción de la rotación de clientes bancarios, utilizando datos históricos para prever qué clientes pueden dejar de utilizar los servicios de un banco en el futuro cercano.
+Este proyecto se enfoca en la predicción de la rotación de clientes bancarios, utilizando datos históricos para prever qué clientes pueden dejar de utilizar los servicios de un banco en el futuro cercano.
 
 Librerías utilizadas:
 * **pandas**
